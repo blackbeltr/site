@@ -52,12 +52,12 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "blackbeltR"
+  #role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Comunidade de especialistas em R & Data Science", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "kimono_v1.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -296,32 +296,32 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
+  name = "./Home"
   url = "#about"
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "~/Publications"
   url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "~/Posts"
   url = "#posts"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "~/Projects"
   url = "#projects"
   weight = 4
 
 [[menu.main]]
-  name = "Tutorials"
+  name = "~/Tutorials"
   url = "/tutorial/"
   weight = 5
 
 [[menu.main]]
-  name = "Blog"
+  name = "~/Blog"
   url = "http://blackbeltr.github.io/blog/"
   weight = 6
 
