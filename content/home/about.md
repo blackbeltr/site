@@ -8,33 +8,38 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+#[interests]
+  # interests = [
+  #   "Artificial Intelligence",
+  #   "Computational Linguistics",
+  #   "Information Retrieval"
+  # ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+#[[education.courses]]
+  # course = "PhD in Artificial Intelligence"
+  # institution = "Stanford University"
+  # year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+#[[education.courses]]
+  # course = "MEng in Artificial Intelligence"
+  # institution = "Massachusetts Institute of Technology"
+  # year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+#[[education.courses]]
+  # course = "BSc in Artificial Intelligence"
+  # institution = "Massachusetts Institute of Technology"
+  # year = 2008
  
 +++
 
 # About us
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Somos um grupo de profissionais aficcionados por **R** e tudo que envolve Estatística, Matemática, Programação e Data Science em geral. 
+Nosso objetivo é oferecer uma plataforma de discussão em que usuários das mais diversas formações possam ampliar e compartilhar seu conhecimento sobre o tema. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+No site você encontrará cursos e materiais produzidos por nossos especialistas, que o auxilirão na jornada de se tornar um faixa preta em **R** e Data Science. Aqui, você também tem acesso ao blackbelt**R** Blog para participar das principais discussões da comunidade. 
+
+Se o seu objetivo é obter consultoria no tema das Ciências de Dados para sua empresa, projeto, ou pesquisa acadêmica, você poderá entrar em contato com nosso time de especialistas.
+
+Se você é um especialista e deseja divulgar seus serviços, você também poderá fazê-lo contactando a administração do site.
