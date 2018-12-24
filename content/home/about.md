@@ -40,6 +40,6 @@ Nosso objetivo é oferecer uma plataforma de discussão em que usuários das mai
 
 No site você encontrará cursos e materiais produzidos por nossos especialistas, que o auxilirão na jornada de se tornar um faixa preta em **R** e Data Science. Aqui, você também tem acesso ao blackbelt**R** Blog para participar das principais discussões da comunidade. 
 
-Se o seu objetivo é obter consultoria no tema das Ciências de Dados para sua empresa, projeto, ou pesquisa acadêmica, você poderá entrar em contato com nosso time de especialistas.
+Se o seu objetivo é obter consultoria para sua empresa, projeto, ou pesquisa acadêmica, você poderá entrar em contato com nosso time de especialistas.
 
 Se você é um especialista e deseja divulgar seus serviços, você também poderá fazê-lo contactando a administração do site.
